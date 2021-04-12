@@ -1,7 +1,7 @@
 - 🙋🏻‍♂️ Hi, I’m @Divinemonk
-- ✴️ I’m interested in hacking and cyber security
-- 🔑 I’m currently learning 'hacking minds and brains' 
-- 🔰 I’m looking on to everything
+- ✴️ I’m interested in Cyber Security & Hacking
+- 🔑 I’m currently learning 'H4ck1ng M1nDs & Br41Ns' 
+- 🔰 The quieter you become, the more you are able to hear... 
 - 📫 h3ll0 w0rld ‽ 
 
 <!---
