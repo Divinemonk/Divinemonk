@@ -1,5 +1,5 @@
 - 🙋🏻‍♂️ Hi, I’m @Divinemonk
-- 🎓 Master in 5ocial 3ngineer in Cyber 5ec & 3thical Hacking 
+- 🎓 Masters in 5ocial 3ngineer, Cyber 5ec & 3thical Hacking 
 - 🔑 I’m currently learning 'H4ck1ng M1nDs & Br41Ns' 
 - 🔰 The quieter you become, the more you are able to hear... 
 - 📫 h3ll0 w0rld ‽ 
