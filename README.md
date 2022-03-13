@@ -18,4 +18,24 @@ This is `A Divinemonk creation!` and follow to gain **Pyth0n supremacy**, **Web 
 
 
 <br><br>
+<h2 align='center'>💻 Projects 💻</h2>
+[![BTO](https://github-readme-stats.vercel.app/api/pin/?username=divinemonk&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<br><br>
+<h2 align='center'>🆓 Freebies 🆓</h2>  
+
+<p align="center">
+  <a href="https://github.com/Divinemonk/filmora_crack">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Divinemonk&repo=filmora_crack&theme=dark" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Divinemonk/softwaracks">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Divinemonk&repo=softwaracks&theme=dark" />
+  </a>
+  <a href="https://github.com/Divinemonk/win10pro">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Divinemonk&repo=win10pro&theme=dark" />
+  </a>&nbsp;&nbsp;
+  <a href="https://github.com/Divinemonk/msoffice365">
+    <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=Divinemonk&repo=msoffice365&theme=dark" />
+  </a>
+</p>
