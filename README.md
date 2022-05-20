@@ -15,7 +15,7 @@
 <br><br>
 
 A **Cyber Security Expert**, **Ethical H4cker** and **Digital Content Creator**. Free Recources & tools, developed for everyone.  
-This is `A Divinemonk creation!` and follow to gain **Pyth0n supremacy**, **Web 3xploitation** & **Too1 Deve1oper** here
+This is `A Divinemonk creation!` and follow to gain **Pyth0n supremacy**, **Web 3xploitation** & **Too1 Deve1opment** here
 
 
 <br><br>
