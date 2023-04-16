@@ -54,7 +54,7 @@
 
 <br>
 
-<h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts --free</h3>
+<h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
 
 - cat '[Microsoft Office 365: Activator Script](https://github.com/Divinemonk/msoffice365)'
 - cat '[Windows 10 Professional: Activation Script](https://github.com/Divinemonk/win10pro)'
