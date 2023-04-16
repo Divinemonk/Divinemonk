@@ -25,13 +25,11 @@
   This is <i>A Divinemonk creation!</i>
 <p align="center"> 
   
-<br>
-<hr>
-<br>
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
 <!-- Git-Repo INDEX -->
 
-<h3 align='center' font-family='monospace'><i>divinemonk@github:~$</i> ls cheatsheets</h3>
+<h3><i>divinemonk@github:~$</i> ls cheatsheets</h3>
 
 - cat '[Google Dorking/Hacking: cheatsheet](https://github.com/Divinemonk/google_dork_cheatsheet)'
 - cat '[Selenium: cheatsheet](https://github.com/Divinemonk/selenium_cheatsheet)'
@@ -39,18 +37,33 @@
 - cat '[Bash Keyboard Shortcuts: cheatsheet](https://github.com/Divinemonk/bash_keyboard_shortcuts_cheatsheet)'
 - cat '[Markdown Emoji: cheatsheet](https://github.com/Divinemonk/emoji_cheatsheet)' 
 
-<br><br>
+<br>
 
-<h3 align='center' font-family='monospace'><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
+<h3><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
 
 - cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
 - cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
-- cat ''
-- cat ''
+- cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
 
-<br><br>
+<br>
+
+<h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts --free</h3>
+
+- cat '[Microsoft Office 365: Activator Script](https://github.com/Divinemonk/msoffice365)'
+- cat '[Windows 10 Professional: Activation Script](https://github.com/Divinemonk/win10pro)'
+- cat '[Bootstrap Studio Unlocked: no license required](https://github.com/Divinemonk/bootstrap_studio_crack)'
+- cat '[Icecream Screen Recorder Pro: cracked version](https://github.com/Divinemonk/icecream_screenrecorder_crack)'
+- cat '[Filmora X: cracked (desktop & portable)](https://github.com/Divinemonk/filmora_crack)'
+- curl '[Softwaracks: get more free softwares here](https://divinemonk.github.io/softwaracks/)'
+
+<br>
+
 
 <!-- Stats -->
+
+<br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+
+<h3 align='center'>Github Stats</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divinemonk&theme=transparent) 
 
