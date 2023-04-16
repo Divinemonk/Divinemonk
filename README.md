@@ -29,6 +29,13 @@
 
 <!-- Git-Repo INDEX -->
 
+<h3>ssh divinemonk@github --quick-access</h3>
+
+- run gtfobins [--localhost](https://divinemonk.github.io/gtfobins)  [--original](https://gtfobins.github.io/)
+- run cyberchef [--localhost](https://divinemonk.github.io/cyberchef) [--original](https://gchq.github.io/CyberChef)
+
+<br>
+  
 <h3><i>divinemonk@github:~$</i> ls cheatsheets</h3>
 
 - cat '[Google Dorking/Hacking: cheatsheet](https://github.com/Divinemonk/google_dork_cheatsheet)'
@@ -58,12 +65,23 @@
 
 <br>
 
+<h3><i>divinemonk@github:~$</i> ls projects/articles --random-dump</h3>
+
+- cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
+- cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
+- cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
+- cat '[HackGPT: collective list of ways/prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
+- cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
+- cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
+- cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
+
+<br>
 
 <!-- Stats -->
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 
-<h3 align='center'>Github Stats</h3>
+<h3 align='center'>[Github Stats]</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divinemonk&theme=transparent) 
 
