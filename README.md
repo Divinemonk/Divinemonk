@@ -56,7 +56,7 @@
 
 <h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
 
-- cat '[Activate Burp Suite Professional](https://github.com/Divinemonk/burpsuite_pro)'
+- cat '[Activate Burp Suite Professional (steps)](https://github.com/Divinemonk/burpsuite_pro)'
 - cat '[Microsoft Office 365: Activator Script](https://github.com/Divinemonk/msoffice365)'
 - cat '[Windows 10 Professional: Activation Script](https://github.com/Divinemonk/win10pro)'
 - cat '[Bootstrap Studio Unlocked: no license required](https://github.com/Divinemonk/bootstrap_studio_crack)'
