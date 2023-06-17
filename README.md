@@ -69,6 +69,7 @@
 
 <h3><i>divinemonk@github:~$</i> ls projects/articles --random-dump</h3>
 
+- cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
 - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
 - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
 - cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
