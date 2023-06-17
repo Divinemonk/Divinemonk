@@ -45,6 +45,7 @@
 - cat '[Ducky Script: cheatsheet](https://github.com/Divinemonk/duckyscript_cheatsheet)'
 - cat '[Bash Keyboard Shortcuts: cheatsheet](https://github.com/Divinemonk/bash_keyboard_shortcuts_cheatsheet)'
 - cat '[Markdown Emoji: cheatsheet](https://github.com/Divinemonk/emoji_cheatsheet)' 
+- cat '[Different types of characters in multiple encodings](https://github.com/Divinemonk/char_encodings)'
 
 <br>
 
