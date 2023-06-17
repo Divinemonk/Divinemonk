@@ -33,6 +33,7 @@
 
 - run gtfobins [--localhost](https://divinemonk.github.io/gtfobins)  [--original](https://gtfobins.github.io/)
 - run cyberchef [--localhost](https://divinemonk.github.io/cyberchef) [--original](https://gchq.github.io/CyberChef)
+- goto [ebooklibrary](https://divinemonk.github.io/ebooklibrary/) --free-ebooks
 
 <br>
   
