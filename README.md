@@ -36,12 +36,6 @@
 - goto [ebooklibrary](https://divinemonk.github.io/ebooklibrary/) --free-ebooks
 
 <br>
-
-<h3><i></i>divinemonk@github:~$</i> ls notes</h3>
-
-- cat '[passwords](https://github.com/Divinemonk/passwords)'
-
-<br>
   
 <h3><i>divinemonk@github:~$</i> ls cheatsheets</h3>
 
@@ -90,6 +84,12 @@
 - cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
 - cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
 - cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
+
+<br>
+
+<h3><i></i>divinemonk@github:~$</i> ls notes</h3>
+
+- cat '[passwords](https://github.com/Divinemonk/passwords)'
 
 <br>
 
