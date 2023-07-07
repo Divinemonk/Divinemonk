@@ -87,7 +87,7 @@
 
 <br>
 
-<h3><i></i>divinemonk@github:~$</i> ls notes</h3>
+<h3><i>divinemonk@github:~$</i> ls notes</h3>
 
 - cat '[passwords](https://github.com/Divinemonk/passwords)'
 
