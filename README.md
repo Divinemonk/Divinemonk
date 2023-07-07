@@ -36,6 +36,12 @@
 - goto [ebooklibrary](https://divinemonk.github.io/ebooklibrary/) --free-ebooks
 
 <br>
+
+<h3><i></i>divinemonk@github:~$</i> ls notes</h3>
+
+- cat '[passwords](https://github.com/Divinemonk/passwords)'
+
+<br>
   
 <h3><i>divinemonk@github:~$</i> ls cheatsheets</h3>
 
@@ -76,6 +82,7 @@
 - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
 - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
 - cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)
+- cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
 - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
 - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
 - cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
