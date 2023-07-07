@@ -54,11 +54,13 @@
 - cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
 - cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
 - cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
+- cat '[Data Entry Web App](https://github.com/Divinemonk/DataEntryWebApp)'
 
 <br>
 
 <h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
 
+- cat '[Acunetix: free linux installation](https://github.com/Divinemonk/acunetix_free)'
 - cat '[Burp Suite Professional: Activation script/steps](https://github.com/Divinemonk/burpsuite_pro)'
 - cat '[Microsoft Office 365: Activator Script](https://github.com/Divinemonk/msoffice365)'
 - cat '[Windows 10 Professional: Activation Script](https://github.com/Divinemonk/win10pro)'
@@ -73,6 +75,7 @@
 
 - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
 - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
+- cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)
 - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
 - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
 - cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
