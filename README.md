@@ -87,12 +87,6 @@
 
 <br>
 
-<h3><i>divinemonk@github:~$</i> ls notes</h3>
-
-- cat '[passwords](https://github.com/Divinemonk/passwords)'
-
-<br>
-
 <!-- Stats -->
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
