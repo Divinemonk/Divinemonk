@@ -75,7 +75,7 @@
 
 - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
 - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
-- cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)
+- cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
 - cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
 - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
 - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
