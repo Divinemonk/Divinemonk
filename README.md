@@ -39,6 +39,7 @@
   
 <h3><i>divinemonk@github:~$</i> ls cheatsheets</h3>
 
+- cat '[Linux Privilege Escalation: cheatsheet](https://github.com/Divinemonk/linux_privesc_cheatsheet)'
 - cat '[Google Dorking/Hacking: cheatsheet](https://github.com/Divinemonk/google_dork_cheatsheet)'
 - cat '[OS Injection Command Concatenator: cheatsheet](https://github.com/Divinemonk/os-injection-concatenator)'
 - cat '[Selenium: cheatsheet](https://github.com/Divinemonk/selenium_cheatsheet)'
