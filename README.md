@@ -74,6 +74,7 @@
 
 <h3><i>divinemonk@github:~$</i> ls projects/articles --random-dump</h3>
 
+- cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
 - cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
 - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
 - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
