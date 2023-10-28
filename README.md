@@ -90,6 +90,16 @@
 
 <br>
 
+<h3><i>divinemonk@github:~$</i> ls pending</h3>
+
+- cat '[wpe](https://github.com/Divinemonk/wpe)' --private
+- cat '[printit](https://github.com/Divinemonk/printit)'
+- cat '[writeups](https://github.com/Divinemonk/writeups)'
+
+<br>
+
+
+
 <!-- Stats -->
 
 <br><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
