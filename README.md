@@ -63,19 +63,19 @@
 
 <br>
 
-<h3><i>divinemonk@github:~$</i> ls projects/guides/notes/articles --random-dump</h3>
+<h3><i>divinemonk@github:~$</i> cd projects/guides/notes/articles --random-dump</h3>
 
-- file  _projects_
+- ls  _projects_
   - cat '[SCR!PTS](https://github.com/Divinemonk/scripts)'
   - cat '[Walkthroughs](https://github.com/Divinemonk/walkthroughs)'
   - cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
   - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
 
-- file _guides_
+- ls _guides_
   - cat '[Android Hacking](https://github.com/Divinemonk/android_hacking)'
   - cat '[R00T Guides](https://github.com/Divinemonk/root_guides)'
 
-- file _notes_
+- ls _notes_
   - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
   - cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
   - cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
@@ -83,7 +83,7 @@
   - cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
   - cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
 
-- file _articles_
+- ls _articles_
   - cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
   - cat '[Memory Forensics with Volatility](https://github.com/Divinemonk/memory_forensics_with_volatility)'
   - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
