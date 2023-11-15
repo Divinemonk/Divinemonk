@@ -50,15 +50,6 @@
 
 <br>
 
-<h3><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
-
-- cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
-- cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
-- cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
-- cat '[Data Entry Web App](https://github.com/Divinemonk/DataEntryWebApp)'
-
-<br>
-
 <h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
 
 - cat '[Acunetix: free linux installation](https://github.com/Divinemonk/acunetix_free)'
@@ -99,6 +90,15 @@
   - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
   - cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
   - cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
+
+<br>
+
+<h3><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
+
+- cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
+- cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
+- cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
+- cat '[Data Entry Web App](https://github.com/Divinemonk/DataEntryWebApp)'
 
 <br>
 
