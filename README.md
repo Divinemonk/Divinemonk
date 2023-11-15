@@ -72,23 +72,33 @@
 
 <br>
 
-<h3><i>divinemonk@github:~$</i> ls projects/articles --random-dump</h3>
+<h3><i>divinemonk@github:~$</i> ls projects/guides/notes/articles --random-dump</h3>
 
-- cat '[Walkthroughs](https://github.com/Divinemonk/walkthroughs)'
-- cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
-- cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
-- cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
-- cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
-- cat '[Memory Forensics with Volatility](https://github.com/Divinemonk/memory_forensics_with_volatility)'
-- cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
-- cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
-- cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
-- cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
-- cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
-- cat '[HackGPT: collective list of ways/prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
-- cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
-- cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
-- cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
+- file  _projects_
+  - cat '[SCR!PTS](https://github.com/Divinemonk/scripts)'
+  - cat '[Walkthroughs](https://github.com/Divinemonk/walkthroughs)'
+  - cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
+  - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
+
+- file _guides_
+  - cat '[Android Hacking](https://github.com/Divinemonk/android_hacking)'
+  - cat '[R00T Guides](https://github.com/Divinemonk/root_guides)'
+
+- file _notes_
+  - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
+  - cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
+  - cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
+  - cat '[HackGPT: collective list of ways/prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
+  - cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
+  - cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
+
+- file _articles_
+  - cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
+  - cat '[Memory Forensics with Volatility](https://github.com/Divinemonk/memory_forensics_with_volatility)'
+  - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
+  - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
+  - cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
+  - cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
 
 <br>
 
