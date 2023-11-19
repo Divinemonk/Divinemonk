@@ -68,7 +68,6 @@
 - ls  _projects_
   - cat '[SCR!PTS](https://github.com/Divinemonk/scripts)'
   - cat '[Walkthroughs](https://github.com/Divinemonk/walkthroughs)'
-  - cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
   - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
 
 - ls _guides_
@@ -95,9 +94,10 @@
 
 <h3><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
 
+- cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
+- cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
 - cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
 - cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
-- cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
 - cat '[Data Entry Web App](https://github.com/Divinemonk/DataEntryWebApp)'
 
 <br>
@@ -119,8 +119,5 @@
 <h3 align='center'>[Github Stats]</h3>
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Divinemonk&theme=transparent) 
-
-
-
 
 
