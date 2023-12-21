@@ -94,8 +94,8 @@
 
 <h3><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
 
+- cat '[Gitdump: Dump all public repositories](https://github.com/Divinemonk/gitdump)'
 - cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
-- cat '[Gitdump [gd]: Dump (clone) all public repositories of any github user](https://github.com/Divinemonk/gitdump)'
 - cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
 - cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
 - cat '[Data Entry Web App](https://github.com/Divinemonk/DataEntryWebApp)'
