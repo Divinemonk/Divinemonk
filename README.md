@@ -50,7 +50,7 @@
 
 <br>
 
-<h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
+<!-- <h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
 
 - cat '[Acunetix: free linux installation](https://github.com/Divinemonk/acunetix_free)'
 - cat '[Burp Suite Professional: Activation script/steps](https://github.com/Divinemonk/burpsuite_pro)'
@@ -61,7 +61,7 @@
 - cat '[Filmora X: cracked (desktop & portable)](https://github.com/Divinemonk/filmora_crack)'
 - curl '[Softwaracks: get more free softwares here](https://divinemonk.github.io/softwaracks/)'
 
-<br>
+<br> -->
 
 <h3><i>divinemonk@github:~$</i> cd projects/guides/notes/articles --random-dump</h3>
 
