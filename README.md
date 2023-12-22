@@ -78,16 +78,17 @@
   - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
   - cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
   - cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
-  - cat '[HackGPT: collective list of ways/prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
+  - cat '[HackGPT: collective list of prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
   - cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
   - cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
 
 - ls _articles_
+  - cat '[Digispark Attiny85: USB rubber ducky killer](https://github.com/Divinemonk/digispark_attiny85)'
   - cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
   - cat '[Memory Forensics with Volatility](https://github.com/Divinemonk/memory_forensics_with_volatility)'
   - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
   - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
-  - cat '[Algorithmic Techniques for Reducing Time Complexity(TC) of a python code](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
+  - cat '[Algorithmic Techniques for Reducing Time Complexity(TC)](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
   - cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
 
 <br>
