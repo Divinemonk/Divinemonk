@@ -49,6 +49,32 @@
 - cat '[Different types of characters in multiple encodings](https://github.com/Divinemonk/char_encodings)'
 
 <br>
+  
+<h3><i>divinemonk@github:~$</i> ls articles/blogs</h3>
+
+- cat '[Walkthroughs](https://github.com/Divinemonk/walkthroughs)'
+- cat '[Digispark Attiny85: USB rubber ducky killer](https://github.com/Divinemonk/digispark_attiny85)'
+- cat '[Android Hacking](https://github.com/Divinemonk/android_hacking)'
+- cat '[R00T Guides](https://github.com/Divinemonk/root_guides)'
+- cat '[Memory Forensics with Volatility](https://github.com/Divinemonk/memory_forensics_with_volatility)'
+- cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
+- cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
+- cat '[Algorithmic Techniques for Reducing Time Complexity(TC)](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
+- cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
+- cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
+
+<br>
+  
+<h3><i>divinemonk@github:~$</i> ls notes</h3>
+
+- cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
+- cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
+- cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
+- cat '[HackGPT: collective list of prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
+- cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
+- cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
+
+<br>
 
 <!-- <h3><i>divinemonk@github:~$</i> ls cracked/modded --softwares --apps --scripts</h3>
 
@@ -63,39 +89,11 @@
 
 <br> -->
 
-<h3><i>divinemonk@github:~$</i> cd projects/guides/notes/articles --random-dump</h3>
-
-- ls  _projects_
-  - cat '[SCR!PTS](https://github.com/Divinemonk/scripts)'
-  - cat '[Walkthroughs](https://github.com/Divinemonk/walkthroughs)'
-  - cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
-
-- ls _guides_
-  - cat '[Android Hacking](https://github.com/Divinemonk/android_hacking)'
-  - cat '[R00T Guides](https://github.com/Divinemonk/root_guides)'
-
-- ls _notes_
-  - cat '[CTF Database](https://github.com/Divinemonk/ctfdb)'
-  - cat '[Notes for Hackers](https://github.com/Divinemonk/notes-for-hackers)'
-  - cat '[List AI's avaliable](https://github.com/Divinemonk/ls_ai)'
-  - cat '[HackGPT: collective list of prompts/resources related to chatgpt](https://github.com/Divinemonk/hackgpt)'
-  - cat '[Coding Brainstorm](https://github.com/Divinemonk/coding_brainstorm)'
-  - cat '[Collective resources for HACKERS and DEVELOPERS](https://github.com/Divinemonk/hackers_n_devs)'
-
-- ls _articles_
-  - cat '[Digispark Attiny85: USB rubber ducky killer](https://github.com/Divinemonk/digispark_attiny85)'
-  - cat '[Different methods of steganography](https://github.com/Divinemonk/steganography)'
-  - cat '[Memory Forensics with Volatility](https://github.com/Divinemonk/memory_forensics_with_volatility)'
-  - cat '[Ethical Hacking Roadmap](https://gist.github.com/Divinemonk/2372bbcbb4fcaad13ce8eb6560844980)'
-  - cat '[Basics of BRAINFUCK (programming language)](https://gist.github.com/Divinemonk/9b95c77d09009da460fdfdbca4ceffaa)'
-  - cat '[Algorithmic Techniques for Reducing Time Complexity(TC)](https://gist.github.com/Divinemonk/6a81242b712010268becb1e2971e06d6)'
-  - cat '[be a hacker](https://github.com/Divinemonk/be-a-hacker)' --[original](https://github.com/s0md3v/be-a-hacker) --read-now
-
-<br>
-
 <h3><i>divinemonk@github:~$</i> ls softwares/tools --open-source</h3>
 
 - cat '[Gitdump: Dump all public repositories](https://github.com/Divinemonk/gitdump)'
+- cat '[SCR!PTS](https://github.com/Divinemonk/scripts)'
+- cat '[Program Dumps](https://github.com/Divinemonk/program_dumps)'
 - cat '[OILT: Omegle IP Location Tracker](https://github.com/Divinemonk/oilt)'
 - cat '[Just Hacking: hacking stimulator](https://github.com/Divinemonk/justhacking)'
 - cat '[Ancipher: Alpha Numeric Cipher convertor (python)](https://github.com/Divinemonk/ancipher)'
